@@ -88,7 +88,7 @@ Currently, I'm expanding my expertise in SQL, Power BI, Python, and Machine Lear
 ### 🎓 UTME Performance Analysis in Nigeria
 
 A comprehensive regression analysis identifying the key educational and socioeconomic factors affecting students' UTME performance.
-[UTME Performance Analysis] (........)
+[UTME Performance Analysis] (https://github.com/Favyman/UTME-Performance-Analysis)
 
 **Skills Used**
 
