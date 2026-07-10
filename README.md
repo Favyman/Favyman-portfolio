@@ -102,7 +102,7 @@ A comprehensive regression analysis identifying the key educational and socioeco
   ### 📊 HR Analytics Dashboard
 
 Developed an interactive HR dashboard analyzing employee performance, absenteeism, salary trends, and workforce distribution to support strategic HR decisions.
-[HR Analytics Dashboard] (.....)
+[HR Analytics Dashboard] (https://github.com/Favyman/HR-Analysis-/blob/main/README.md)
 
 ### 📈 Sales Performance Dashboard
 
