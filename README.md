@@ -104,10 +104,29 @@ A comprehensive regression analysis identifying the key educational and socioeco
 Developed an interactive HR dashboard analyzing employee performance, absenteeism, salary trends, and workforce distribution to support strategic HR decisions.
 [HR Analytics Dashboard] (https://github.com/Favyman/HR-Analysis-/blob/main/README.md)
 
+**Skills Used**
+
+- Power Query
+- Dashboard Design
+- Statistical Analysis
+- Data Visualization
+- Excel
+- Power BI
+- Business Insights
+
 ### 📈 Sales Performance Dashboard
 
-Analyzed sales performance using Excel dashboards to identify revenue trends, top-performing products, customer behavior, and sales opportunities.
+Analyzed sales performance using SQL for data validation and data exploration and tableau dashboards to identify revenue trends, top-performing products, customer behavior, and sales opportunities.
 [Sales Performance Analysis] (......)
+
+**Skills Used**
+
+- Exploratory Data Analysis
+- Dashboard Design
+- SQL 
+- Data Visualization
+- Tableau
+- Business Insights
 
 ### 📋 Business Intelligence Dashboards
 
